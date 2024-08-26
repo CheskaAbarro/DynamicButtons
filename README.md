@@ -4,7 +4,7 @@
 
 **This dynamic buttons is useful in creating buttons for POS or anyh ordering systems.**
 
-Please check out my [simple-crud-winform-mssql](https://github.com/CheskaAbarro/simple-crud-winform-mssqql/tree/master) repository for a much simpler CRUD operations and [improved-crud-winform-mssql](https://github.com/CheskaAbarro/improved-crud-winform-mssql) repository for app.config setup and sql injection prevention tutorial.
+Please check out my [simple-crud-csharp-winform-mssql](https://github.com/CheskaAbarro/simple-crud-csharp-winform-mssqql) repository for a much simpler CRUD operations and [improved-crud-csharp-winform-mssql](https://github.com/CheskaAbarro/improved-crud-csharp-winform-mssql) repository for app.config setup and sql injection prevention tutorial.
 I suggest you run and study the given link before studying this improvements. 
 
 ### Setting up and important parts 
